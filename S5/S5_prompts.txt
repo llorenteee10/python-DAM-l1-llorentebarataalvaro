@@ -1,0 +1,29 @@
+Haz un código en Python que pida al usuario una lista de calificaciones separadas por comas
+(por ejemplo: 6.5, 8, 5, 4, 9, 10, 7, 3)
+y muestre un resumen estadístico similar al de un boletín de aula:
+
+Número total de notas.
+
+Media, nota mínima y máxima.
+
+Porcentaje de aprobados (≥5) y sobresalientes (≥9).
+
+Nota más repetida (moda). Si hay empate, que muestre todas.
+
+Mensaje final según la media:
+
+“Nivel excelente” si la media ≥ 8
+
+“Nivel medio” si la media está entre 5 y 7.9
+
+“Necesita refuerzo” si la media < 5
+
+Requisitos técnicos:
+
+Validar que todos los valores sean numéricos (try/except).
+
+Redondear la media a 2 decimales.
+
+Mostrar los resultados con f-strings.
+
+Añadir comentarios explicativos al código

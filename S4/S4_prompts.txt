@@ -1,0 +1,21 @@
+lista_numeros
+Haz un programa en Python que pida una lista de números 
+separados por comas, los convierta a float, 
+y muestre la suma, la media, el máximo y los números 
+duplicados. Controla los errores si el usuario mete algo 
+que no es número.
+
+temperaturas
+Crea un conversor de temperaturas en Python que convierta 
+grados Celsius a Kelvin o Fahrenheit 
+según la opción elegida por el usuario
+
+cadenas
+Haz un programa que pida una cadena de texto y 
+cuente cuántas vocales, consonantes, mayúsculas y 
+caracteres tiene
+
+primo
+Crea un programa en Python que reciba un número y 
+determine si es primo o no, controlando errores 
+si el usuario introduce algo incorrecto
